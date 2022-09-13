@@ -17,7 +17,7 @@ class ResultadoActivity : AppCompatActivity() {
         setContentView(binding.root)
 
         supportActionBar?.setDisplayHomeAsUpEnabled(true)
-        supportActionBar?.title = getString(R.string.tabuada_do_numeroDigitado)
+        supportActionBar?.title = getString(R.string.resultado_tabuada)
 
         recuperarNumeroDigitado()
 

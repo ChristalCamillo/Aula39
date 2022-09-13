@@ -7,5 +7,7 @@
     <string name="recalcular_tabuada">recalcular tabuada</string>
     <string name="tabuada_calculada">tabuada calculada</string>
     <string name="tabuada_do_X">tabuada do $numeroDigitado</string>
-    <string name="tabuada_do_numeroDigitado">tabuada_do_x</string>
+    <string name="tabuada_do_numeroDigitado">tabuada do ?</string>
+    <string name="MSG_PREENCHER_VALORES">é obrigatório digitar numero para calcular</string>
+    <string name="resultado_tabuada">Resultado</string>
 </resources>
